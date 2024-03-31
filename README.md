@@ -1,5 +1,22 @@
 [![](https://github.com/ShivshankarPersonal/ShivshankarPersonal/blob/main/Shiv.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
 
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>Hello there !
+
+
+
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I'm a full stack developer with 15+ year's of experience, working on implementation of cuttting-edge applications in Startup's and Enterprise environments. \
+✉️ &nbsp;You can email me at ShivMS.mail@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view) for more details about work experience.
+
+
+### 📫 &nbsp; How to reach me:
+<a href="https://www.linkedin.com/in/shivashankar-/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:ShivMS.mail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+
+
+### 🛠 &nbsp;Tech Stack
+
 ### Frontend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
