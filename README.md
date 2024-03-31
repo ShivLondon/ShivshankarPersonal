@@ -5,7 +5,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm a full stack developer with 15+ year's of experience, working on implementation of cuttting-edge applications in Startup's and Enterprise environments. \
+💡 &nbsp;I'm Shiv, I'm a London based full stack developer with over 15 year's of application development experience, working on implementation of cuttting-edge applications in Startup's and Enterprise environments. \
 ✉️ &nbsp;You can email me at ShivMS.mail@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view) for more details about work experience.
 
