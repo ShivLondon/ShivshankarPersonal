@@ -1,6 +1,6 @@
 [![](https://github.com/ShivshankarPersonal/ShivshankarPersonal/blob/main/Shiv.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>Hello there !
+### 👋 Hello there !
 
 
 
