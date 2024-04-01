@@ -6,7 +6,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I'm Shiv, I'm a London based full stack developer with over 15 year's of application development experience, working on implementation of cuttting-edge applications in Startup's and Enterprise environments. \
-✉️ &nbsp;You can email me at ShivMS.mail@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view) for more details about work experience.
 
 
@@ -15,7 +14,7 @@
 <a href="mailto:ShivMS.mail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 ### Frontend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
